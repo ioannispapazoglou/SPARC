@@ -2,4 +2,4 @@
 
 Sequence-based Protein Assessment for Residue Contacts
 
-by DurdagiLab 
+DurdagiLab 
